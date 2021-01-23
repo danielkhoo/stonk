@@ -1,0 +1,21 @@
+{
+  "name": "stonk",
+  "version": "1.0.0",
+  "description": "CLI to get the latest stock prices from yahoo finance",
+  "bin": {
+    "stonk": "cli.js"
+  },
+  "author": "danielkhoo",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.0",
+    "yargs": "^16.2.0"
+  },
+  "keywords": [
+    "cli",
+    "stocks",
+    "ticker",
+    "finance"
+  ]
+}
