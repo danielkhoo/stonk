@@ -1,7 +1,6 @@
 # stonk
 
 [![](https://img.shields.io/npm/v/stonk.svg?style=flat)](https://github.com/danielkhoo/stonk)
-[![](https://img.shields.io/bundlephobia/min/stonk.svg?style=flat)](https://github.com/danielkhoo/stonk)
 
 A simple CLI utility to get the latest stock prices from yahoo finance right in your terminal!
 
