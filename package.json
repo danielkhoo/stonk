@@ -2,11 +2,13 @@
   "name": "stonk",
   "version": "1.0.0",
   "description": "CLI to get the latest stock prices from yahoo finance",
+  "author": "Daniel Khoo",
+  "license": "MIT",
+  "homepage": "https://github.com/danielkhoo/stonk",
+  "repository": "github:danielkhoo/stonk",
   "bin": {
     "stonk": "cli.js"
   },
-  "author": "danielkhoo",
-  "license": "MIT",
   "dependencies": {
     "axios": "^0.21.1",
     "chalk": "^4.1.0",
