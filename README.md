@@ -9,7 +9,7 @@ A simple CLI utility to get the latest stock prices from yahoo finance right in 
 Single Stock
 
 ```bash
-$ npx stonk fb aapl goog
+$ npx stonk fb
 ---------------------------
 Facebook, Inc. (FB)
 USD 274.50 (0.60%)
